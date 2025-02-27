@@ -17,30 +17,3 @@ Automação: Manipulação de PDFs (PyPDF2, Fitz), Scripts para organização de
 Front-end: React
 
 Outros: Django Rest Framework, AWS SDK, Git
-
-📌 O que você encontra aqui
-
-🔹 Scripts para automação de tarefas
-🔹 Projetos com Django e AWS
-🔹 Manipulação de dados e PDFs
-🔹 Integração com APIs
-🔹 Query otimizada para bancos NoSQL e SQL
-
-🤔 O que eu pesquiso e estudo?
-
-Como estruturar e otimizar queries no Django e DynamoDB
-
-Melhor forma de lidar com arquivos estáticos no Django
-
-Automação de manipulação de documentos PDF
-
-Como melhorar integração entre backend e frontend
-
-Boas práticas para lidar com APIs externas (como AWS SES e DynamoDB)
-
-Como otimizar processamento de arquivos grandes
-
-Estratégias para migração de dados e versionamento de banco
-
-
-✨ Sempre aprendendo e explorando novas soluções! 🚀
