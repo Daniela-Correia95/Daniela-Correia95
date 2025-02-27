@@ -7,7 +7,6 @@ Olá! Sou uma desenvolvedora apaixonada por resolver problemas e aprender novas 
 🚀 Tecnologias e Ferramentas
 
 Backend: Python (Django), JavaScript (Node.js) 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 Banco de Dados: DynamoDB
 
